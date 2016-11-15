@@ -1,3 +1,4 @@
 var a={
-	name:'哈哈'
+	name:'哈哈',
+	age:12
 };
